@@ -51,12 +51,13 @@
   .card p {
     background-color: white;
     flex: 1;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     margin-top: 5px;
     padding: 5px 20px 0px 20px;
     text-align: center;
   }
   
   .card img {
-    width: 100%;
+    width: 350px;
+    height: 250px;
   }
